@@ -1,6 +1,6 @@
 # Assignment Instructions
 
-## General Idea
+
 Super simple idea behind this week's assignment: use the restaurant menu REST API to create a master/detail view pair.
 
 Your application should have 3 views (i.e., 3 view states): home (`home`), categories list (`categories`), items list (`items`).
@@ -13,4 +13,3 @@ The categories view should list all available categories of items on the menu. E
 
 Make sure that if, while viewing the list of menu items for a particular category, the user copies the URL in the browser's address bar and pastes it into a new tab or a different browser, that the view is the same as the original one.
 
-[See my solution web page](https://igogra.github.io/Single-Page-Web-Applications-with-AngularJS/Module4/)
